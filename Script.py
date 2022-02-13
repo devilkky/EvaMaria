@@ -15,7 +15,7 @@ class script(object):
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
-    INFORMATION_TXT = """<b>ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ:</b>
+    SOURCE_TXT = """<b>ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ:</b>
 - JOIN OUR CHANNEL FOR MORE UPDATES - https://t.me/theIMDbshow 
 - OUR MOVIES AND SERIES GROUP - https://t.me/request_seriesgroup
 - OWNER - @devil_kky contact if you need any help related bot
